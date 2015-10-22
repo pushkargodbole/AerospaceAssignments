@@ -1,1 +1,1 @@
-# This is a repository of the coding assignments given to me in various course projects
+# This is a repository of the coding assignments given to me in various course projects during undergrad.
